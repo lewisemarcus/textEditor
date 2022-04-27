@@ -77,19 +77,5 @@ module.exports = () => {
                 },
             ],
         },
-        resolve: {
-            fallback: {
-                fs: false,
-                net: false,
-                zlib: false,
-                querystring: false,
-                path: false,
-                crypto: false,
-                stream: false,
-                http: false,
-                url: false,
-                util: false,
-            },
-        },
     }
 }
