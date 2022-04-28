@@ -1,10 +1,12 @@
-#  PWA Homework: Text Editor
+# PWA Homework: Text Editor
 
-  ![License: MIT ](https://img.shields.io/badge/License-MIT-informational)
+![License: MIT ](https://img.shields.io/badge/License-MIT-informational)
 
-  ## Description
+## Description
 
-  From the user's perspective: 
+Deployed Application: https://polar-hollows-30889.herokuapp.com/
+
+From the user's perspective:
 
 ```md
 GIVEN a text editor web application
@@ -34,64 +36,62 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-  ## Table of Contents
+## Table of Contents
 
-  - [Installation](#installation)
+-   [Installation](#installation)
 
-  - [Walkthrough](#walkthrough)
+-   [Walkthrough](#walkthrough)
 
-  - [Usage](#usage)
+-   [Usage](#usage)
 
-  - [Author(s)](#authors)
+-   [Author(s)](#authors)
 
-  - [Contributing](#contributing)
+-   [Contributing](#contributing)
 
-  - [License](#license)
+-   [License](#license)
 
-  - [Questions](#questions)
+-   [Questions](#questions)
 
-  ## Installation
+## Installation
 
-  Use the package manager [npm] to install  install.
+Use the package manager [npm] and enter [npm] [install].
+
 ```bash
 
-npm install  install
+npm install
 
-# To run:
+# To build:
 npm run start
 
 ```
 
-  ## Walkthrough
+## Walkthrough
 
-  N/A
-  ## Usage
-  
 N/A
 
-  ## Author(s)
+## Usage
 
-  - [lewisemarcus](https://github.com/lewisemarcus)
+N/A
 
+## Author(s)
 
-  
+-   [lewisemarcus](https://github.com/lewisemarcus)
+
 ## Tests
-  
+
 N/A
 
-  ## Contributing
- 
-  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Contributing
 
-  
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 ## License
 
-  Licensed under the MIT License (the "License"); you may not use this file except in compliance with the License.
+Licensed under the MIT License (the "License"); you may not use this file except in compliance with the License.
 
-  For more information on the License, please visit:  https://opensource.org/licenses/mit
+For more information on the License, please visit: https://opensource.org/licenses/mit
 
-  ## Questions
-  
-- [Marcus Lewis](https://github.com/lewisemarcus) - Lead Author's GitHub Link
-  
-- If you would like to email me for further questions, please send one to: <lewisemarcus@gmail.com>
+## Questions
+
+-   [Marcus Lewis](https://github.com/lewisemarcus) - Lead Author's GitHub Link
+-   If you would like to email me for further questions, please send one to: <lewisemarcus@gmail.com>
